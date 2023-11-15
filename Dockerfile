@@ -1,1 +1,1 @@
-FROM ubuntu:17.04
+FROM ubuntu:zesty-20171122
